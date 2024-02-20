@@ -1,1 +1,1 @@
-<h1> Mayzernator Flipper Zero Repo 🐬</h1>
+<h1> Flipper Zero Repo 🐬</h1>
